@@ -46,7 +46,7 @@ and building small tools.
 
 Primary environment:
 
-- EndeavourOS
+- EndeavourOS & Debian(VM)
 - Bash / Zsh
 - GNU/Linux
 - Git
